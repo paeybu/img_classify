@@ -1,0 +1,5 @@
+export const PREDICT_URL = 'PREDICT_URL'
+export const SET_MODEL = 'SET_MODEL'
+export const SET_DISPLAY = 'SET_DISPLAY'
+export const SET_URL = 'SET_URL'
+export const CLEAR_RESULT = 'CLEAR_RESULT'
